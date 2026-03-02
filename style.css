@@ -96,6 +96,7 @@ div.corps{
     
 .E{
     width: 80%;
+    
 }
     
     
@@ -283,6 +284,42 @@ input{
 div.c1 i{
     display: flex;
 }
+
+
+.Z{
+    width: 100%;
+    
+}
+    
+.z1{
+    display: flex;
+    justify-content: center;
+}
+.z1 li{
+    margin-right: 20px;
+    
+}
+.z1 i{
+    font-size: 50px;
+}
+.z2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    
+}
+.z2 i{
+    font-size: 20px;
+}
+
+
+
+    
+    
+    
+     
+    
+
 
 @media  (max-with:700px) {
     main.bloc{
